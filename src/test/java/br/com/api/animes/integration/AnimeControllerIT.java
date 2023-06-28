@@ -30,9 +30,11 @@ import org.springframework.test.annotation.DirtiesContext;
 
 import java.util.List;
 
+// Marlos
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @AutoConfigureTestDatabase
 //@DirtiesContext(classMode = DirtiesContext.ClassMode.BEFORE_EACH_TEST_METHOD)
+
 class AnimeControllerIT {
 
     @Autowired
