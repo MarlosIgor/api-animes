@@ -9,6 +9,8 @@ import org.springframework.web.client.RestTemplate;
 import java.util.Arrays;
 import java.util.List;
 
+//A1
+//A2
 // Fazer uma requisição para outros serviços ou URL externa
 @Log4j2
 public class SpringClient {
